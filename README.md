@@ -5,10 +5,7 @@ Also this is my first flutter project, I have some things to improve and I'm con
 
 Step 1: The design is almost complete.
 
+<Img src = "https://user-images.githubusercontent.com/45011293/156922486-e0b58143-ebba-4568-b573-4c0f0abcf7a7.png" width="100" >     <Img src = "https://user-images.githubusercontent.com/45011293/156922491-5548ca12-03bc-4551-81cc-a9564bb8483b.png" width="100" >       <Img src = "https://user-images.githubusercontent.com/45011293/156922504-d971f477-bef4-473e-917d-66bc6ccb016b.png" width="100" >    <Img src = "https://user-images.githubusercontent.com/45011293/156922515-a8c54f7c-530b-42b7-825c-f600adaaf49e.png" width="100" >
 
-![cvmaker1](https://user-images.githubusercontent.com/45011293/156922114-655fda2e-d7ba-44c6-b1da-482d46c76059.png) 
-![cvmaker2](https://user-images.githubusercontent.com/45011293/156922123-254e6c7d-f87a-4efc-a278-3701e010b9a7.png)
-![cvmaker3](https://user-images.githubusercontent.com/45011293/156922132-346cb597-11ea-4c06-830c-dd1ad70d6fb4.png)
-![cvmaker4](https://user-images.githubusercontent.com/45011293/156922133-790c5eb7-d0d4-44ca-97c6-4c9a01132c73.png)
 
 I am currently dealing with database. I'll update this as it progresses.
