@@ -1,7 +1,7 @@
 # cv_resume_project
 
-CVMaker is a flutter project that is developing and offers easy use to the user and the user can get immediate results.
-Also this is my first flutter project, I have some things to improve and I'm continuing.
+CVMaker is a flutter project that is developing and offers easy use and the user can get immediate results.
+Also this is my first flutter project. So, there are points that I need to improve and I continue to improve the app also myself.
 
 Step 1: The design is almost complete.
 
