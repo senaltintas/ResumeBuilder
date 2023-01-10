@@ -1,11 +1,15 @@
-# cv_resume_project
+# Resume Builder
 
 CVMaker is a flutter project that is developing and offers easy use and the user can get immediate results.
 Also this is my first flutter project. So, there are points that I need to improve and I continue to improve the app also myself.
 
-Step 1: The design is almost complete.
+The design is almost complete.
 
-<Img src = "https://user-images.githubusercontent.com/45011293/156922486-e0b58143-ebba-4568-b573-4c0f0abcf7a7.png" width="100" >     <Img src = "https://user-images.githubusercontent.com/45011293/156922491-5548ca12-03bc-4551-81cc-a9564bb8483b.png" width="100" >       <Img src = "https://user-images.githubusercontent.com/45011293/156922504-d971f477-bef4-473e-917d-66bc6ccb016b.png" width="100" >    <Img src = "https://user-images.githubusercontent.com/45011293/156922515-a8c54f7c-530b-42b7-825c-f600adaaf49e.png" width="100" >
+<img src="https://user-images.githubusercontent.com/45011293/211544605-ffb5bd47-b466-4bfd-8ae5-8b8b4e73c909.png" width="140" height="300" title="warning page">
+<img src="https://user-images.githubusercontent.com/45011293/211544667-164be184-b229-4b76-b809-80285cee5aeb.png" width="140" height="300" title="warning page">
+<img src="https://user-images.githubusercontent.com/45011293/211544704-8240a10f-819a-4615-9186-6edf7ae06f17.png" width="140" height="300" title="warning page">
+<img src="https://user-images.githubusercontent.com/45011293/211543839-f6d3ef55-cb96-4705-b7d2-18092532072b.png" width="140" height="300" title="warning page">
 
 
-I am currently dealing with database. I'll update this as it progresses.
+
+
